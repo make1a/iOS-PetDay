@@ -1,0 +1,13 @@
+platform:ios,'9.0'
+use_frameworks!
+target 'iOS-PetDay' do
+pod 'SnapKit'
+pod 'Arcane'
+pod 'PSea'
+pod 'SVProgressHUD'
+pod 'AMapLocation-NO-IDFA'
+pod 'Hero'
+pod 'SwiftyJSON'
+pod 'SwiftFFDB'
+#pod 'mob_smssdk'
+end

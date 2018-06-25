@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Calendar
+
+  Created by Fidetro on 25/12/2017.
+  Copyright © 2017 Fidetro. All rights reserved.
+*/
+"SUN" = "日";
+"MON" = "一";
+"TUE" = "二";
+"WED" = "三";
+"THU" = "四";
+"FRI" = "五";
+"SAT" = "六";
+"New Event" = "说点什么吧";
+"Send Code" = "验证码";
+"Camera" = "相机";
+"Choose from Album" = "选择相册";
+"Cancel" = "取消";
+"Password" = "";
+"Username" = "";
+"Register" = "注册";
+"Find password" = "找回密码";

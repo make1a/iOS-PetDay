@@ -1,0 +1,6 @@
+framework module PSea {
+  umbrella header "PSea-umbrella.h"
+
+  export *
+  module * { export * }
+}
